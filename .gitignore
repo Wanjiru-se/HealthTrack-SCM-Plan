@@ -4,6 +4,7 @@
 *.exe
 # Ignore sensitive environment configs (SECURITY)
 .env
+secret.env
 config.js
 # Ignore IDE settings (PERSONAL SCOPE)
 .vscode/
